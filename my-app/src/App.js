@@ -1,5 +1,9 @@
+import Portfolio from "./Portfolio";
+
 function App() {
-  return null
+  return (
+    <Portfolio/>
+  )
 }
 
 export default App;
